@@ -1,0 +1,1424 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 644px) 
+{
+
+    .nav-bar
+    {
+        background-color: black;
+    }
+
+
+    .nav-bar .nav-container
+  {
+    width: 100%;
+  }
+
+  .nav-bar .nav-container h2
+  {
+    padding-left: 0px;
+    float: none;
+    font-size: 35px;
+  }
+
+  .nav-bar .nav-container ul
+  {
+    float: none;
+    padding-right: 0px;
+  }
+
+  .nav-bar .nav-container ul li
+  {
+    float: none;
+    text-align: center;
+    background-color: burlywood;
+    margin-bottom: 5px;
+  }
+
+
+  .nav-bar .nav-container ul li:hover
+  {
+    background-color: wheat;
+  }
+
+
+
+  #home .home-content
+{
+    text-align: center;
+    padding-top: 44%;
+    
+}
+
+
+/* ======================== first section ================================= */
+
+
+
+.first-section .container
+{
+    width: 80%;
+}
+
+
+
+.first-section .container .fs-left
+{
+    float: none;
+    width: 100%;
+    border-radius: 4px;
+    position: relative;
+    border: none;
+    margin-bottom: 20px;
+}
+
+
+
+.first-section .container .fs-left .pic
+{
+    border-radius: 4px;
+    position: relative;
+    overflow: hidden;
+    transform: translate(0px , 0px);  
+    
+}
+
+
+.first-section .container .fs-right
+{
+    float: none;
+    width: 100%;
+    padding-left: 0%;
+}
+
+
+
+.first-section .container .fs-right .left ,
+.first-section .container .fs-right .right
+{
+    float: none;
+    padding-left: 0px;
+}
+
+
+
+
+
+
+
+
+
+/* ========================= secend section ============================ */
+
+
+.secend-section .container
+{
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+.secend-section .container .one
+{
+    float: none;
+    width: 90%;
+    padding: 40px 0;
+    margin: 70px auto 0 auto ;
+    transition: all .3s;
+    
+}
+
+
+/* ========================= third section ============================ */
+
+
+
+.third-section .container .foto-sec .pict
+{
+    width: 100%;
+}
+
+
+.third-section .container ul li
+{
+    display: block;
+    padding-bottom: 22px;
+}
+
+
+.third-section .container ul li a
+{
+    padding-right: 0px;
+}
+
+
+/* ========================= section four ============================ */
+
+
+.section-four .container .ic
+{
+    float: none;
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+
+/* ========================= section five ============================ */
+
+
+
+.section-five .container .feed-back
+{
+    width: 90%;
+}
+
+
+
+
+.section-five .container .feed-back .lay
+{
+    top: -166px;
+    left: -82%;
+    transform: rotate(34deg);
+    
+}
+
+
+
+.section-five .container .feed-back .feed-back-left ,
+.section-five .container .feed-back .feed-back-right
+{
+    float: none;
+}
+
+.section-five .container .feed-back .feed-back-left
+{
+    width: 100%;
+} 
+
+
+
+.section-five .container .feed-back .feed-back-left img
+{
+    width: 30%;
+}
+
+
+
+.section-five .container .feed-back .feed-back-right
+{
+    
+    width: 100%;
+    padding-left: 20px;
+}
+
+
+
+/* ========================= section six ============================ */
+
+
+.section-six .container .cardes
+{
+    width: 100%;
+    border: none;
+    border-bottom: 20px solid transparent;
+    padding-left: 12px;
+}
+
+
+
+.section-six .container .cardes p ,
+.section-six .container .cardes a
+{
+    padding: 20px 0px 20px 0px;
+    
+}
+
+
+
+/* ========================= section seven ============================ */
+
+
+.section-seven .container form
+{
+    width: 100%;
+    margin: 80px auto;
+}
+
+
+
+.section-seven .container form .name ,
+.section-seven .container form .email
+{
+    width: 100%;
+    padding: 12px;
+    
+}
+
+
+
+
+
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 645px) and (max-width: 768px) 
+{
+    .nav-bar
+    {
+        background-color: black;
+    }
+
+
+    .nav-bar .nav-container
+  {
+    width: 100%;
+  }
+
+  .nav-bar .nav-container h2
+  {
+    padding-left: 0px;
+    float: left;
+    font-size: 35px;
+  }
+
+  .nav-bar .nav-container ul
+  {
+    float: right;
+    padding-right: 0px;
+  }
+
+  .nav-bar .nav-container ul li
+  {
+    float: left;
+    text-align: center;
+    margin-bottom: 5px;
+  }
+
+
+  
+
+
+
+  #home .home-content
+{
+    text-align: center;
+    padding-top: 32%;
+    
+}
+
+
+
+/* ======================== first section ================================= */
+
+
+
+.first-section .container
+{
+    width: 80%;
+}
+
+
+
+.first-section .container .fs-left
+{
+    float: none;
+    width: 100%;
+    border-radius: 4px;
+    position: relative;
+    border: none;
+    margin-bottom: 20px;
+}
+
+
+
+.first-section .container .fs-left .pic
+{
+    border-radius: 4px;
+    position: relative;
+    overflow: hidden;
+    transform: translate(0px , 0px);  
+    
+}
+
+
+.first-section .container .fs-right
+{
+    float: none;
+    width: 100%;
+    padding-left: 0%;
+}
+
+
+
+.first-section .container .fs-right .left ,
+.first-section .container .fs-right .right
+{
+    float: none;
+    padding-left: 0px;
+}
+
+
+
+
+
+
+
+
+
+/* ========================= secend section ============================ */
+
+
+.secend-section .container
+{
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+.secend-section .container .one
+{
+    float: none;
+    width: 90%;
+    padding: 40px 0;
+    margin: 70px auto 0 auto ;
+    transition: all .3s;
+    
+}
+
+
+/* ========================= third section ============================ */
+
+
+
+.third-section .container .foto-sec .pict
+{
+    width: 100%;
+}
+
+
+.third-section .container ul li
+{
+    display: block;
+    padding-bottom: 22px;
+}
+
+
+.third-section .container ul li a
+{
+    padding-right: 0px;
+}
+
+
+/* ========================= section four ============================ */
+
+
+.section-four .container .ic
+{
+    float: none;
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+
+/* ========================= section five ============================ */
+
+
+
+.section-five .container .feed-back
+{
+    width: 90%;
+}
+
+
+
+
+.section-five .container .feed-back .lay
+{
+    top: -166px;
+    left: -82%;
+    transform: rotate(34deg);
+    
+}
+
+
+
+.section-five .container .feed-back .feed-back-left ,
+.section-five .container .feed-back .feed-back-right
+{
+    float: none;
+}
+
+.section-five .container .feed-back .feed-back-left
+{
+    width: 100%;
+} 
+
+
+
+.section-five .container .feed-back .feed-back-left img
+{
+    width: 30%;
+}
+
+
+
+.section-five .container .feed-back .feed-back-right
+{
+    
+    width: 100%;
+    padding-left: 20px;
+}
+
+
+
+/* ========================= section six ============================ */
+
+
+.section-six .container .cardes
+{
+    width: 100%;
+    border: none;
+    border-bottom: 20px solid transparent;
+    padding-left: 12px;
+}
+
+
+
+.section-six .container .cardes p ,
+.section-six .container .cardes a
+{
+    padding: 20px 0px 20px 0px;
+    
+}
+
+
+
+/* ========================= section seven ============================ */
+
+
+.section-seven .container form
+{
+    width: 100%;
+    margin: 80px auto;
+}
+
+
+
+.section-seven .container form .name ,
+.section-seven .container form .email
+{
+    width: 100%;
+    padding: 12px;
+    
+}
+
+
+
+
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 769px) and (max-width:992px) 
+{
+    .nav-bar
+    {
+        background-color: black;
+    }
+
+
+    .nav-bar .nav-container
+  {
+    width: 100%;
+  }
+
+  .nav-bar .nav-container h2
+  {
+    padding-left: 0px;
+    float: left;
+    font-size: 35px;
+  }
+
+  .nav-bar .nav-container ul
+  {
+    float: right;
+    padding-right: 0px;
+  }
+
+  .nav-bar .nav-container ul li
+  {
+    float: left;
+    text-align: center;
+    margin-bottom: 5px;
+  }
+
+
+  
+
+
+
+  #home .home-content
+{
+    text-align: center;
+    padding-top: 32%;
+    
+}
+
+
+
+/* ======================== first section ================================= */
+
+
+
+.first-section .container
+{
+    width: 95%;
+}
+
+
+
+.first-section .container .fs-left
+{
+    float: left;
+    width: 44%;
+    border-radius: 4px;
+    position: relative;
+    border: none;
+    margin-bottom: 20px;
+}
+
+
+
+.first-section .container .fs-left .pic
+{
+    border-radius: 4px;
+    position: relative;
+    overflow: hidden;
+    transform: translate(0px , 0px);  
+    
+}
+
+
+.first-section .container .fs-right
+{
+    float: right;
+    width: 50%;
+    padding-left: 0%;
+}
+
+
+
+.first-section .container .fs-right .left ,
+.first-section .container .fs-right .right
+{
+    float: left;
+    width: 50%;
+    font-size: 14px;
+}
+
+
+
+.first-section .container .fs-right .right
+{
+    padding-left: 0px;
+}
+
+
+
+
+
+
+
+
+
+/* ========================= secend section ============================ */
+
+
+.secend-section .container
+{
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+.secend-section .container .one
+{
+    float: left;
+    width: 50%;
+    padding: 40px 0;
+    margin: 70px auto 0 auto ;
+    transition: all .3s;
+    
+}
+
+
+/* ========================= third section ============================ */
+
+
+
+.third-section .container .foto-sec .pict
+{
+    width: 50%;
+}
+
+
+.third-section .container
+{
+    width: 95%;
+}
+
+
+.third-section .container ul li
+{
+    display: inline-block;
+    padding-bottom: 0px;
+}
+
+
+
+
+
+/* ========================= section four ============================ */
+
+
+.section-four .container .ic
+{
+    float: left;
+    width: 25%;
+    margin-bottom: 40px;    
+}
+
+
+/* ========================= section five ============================ */
+
+
+.section-five .container
+{
+    width: 95%;
+}
+
+.section-five .container .feed-back
+{
+    width: 100%;
+    padding-bottom: 0px;
+}
+
+
+
+
+.section-five .container .feed-back .lay
+{
+    top: -204px;
+    left: -34%;
+    transform: rotate(134deg);
+    
+}
+
+
+
+.section-five .container .feed-back .feed-back-left ,
+.section-five .container .feed-back .feed-back-right
+{
+    float: left;
+}
+
+.section-five .container .feed-back .feed-back-left
+{
+    width: 30%;
+    padding-bottom: 50px;
+} 
+
+
+
+
+
+.section-five .container .feed-back .feed-back-left img
+{
+    width: 100%;
+}
+
+
+
+.section-five .container .feed-back .feed-back-right
+{
+    
+    width: 65%;
+    padding-left: 20px;
+}
+
+
+
+/* ========================= section six ============================ */
+
+
+.section-six .container
+{
+    
+    width: 95%;
+}
+
+
+.section-six .container .cardes h2
+{
+    text-align: left;
+    font-size: 18px;
+}
+
+.section-six .container .cardes
+{
+    width: 33.333333333333%;
+    border-bottom: 20px solid transparent;
+    padding-left: 12px;
+    border: 5px solid transparent;
+    border-top: 30px solid transparent;
+}
+
+
+
+.section-six .container .cardes p ,
+.section-six .container .cardes a
+{
+    padding: 20px 0px 20px 0px;
+    
+}
+
+
+
+/* ========================= section seven ============================ */
+
+
+
+.section-seven .container
+{
+    width: 90%;
+}
+
+
+
+
+
+
+.section-seven .container form
+{
+    width: 100%;
+    margin: 80px auto;
+}
+
+
+
+.section-seven .container form .name ,
+.section-seven .container form .email
+{
+    width: 48%;
+    padding: 12px;
+    
+}
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 993px) and (max-width: 1200px) 
+{
+    .nav-bar
+    {
+        background-color: black;
+    }
+
+
+    .nav-bar .nav-container
+  {
+    width: 90%;
+  }
+
+  .nav-bar .nav-container h2
+  {
+    padding-left: 0px;
+    float: left;
+    font-size: 35px;
+  }
+
+  .nav-bar .nav-container ul
+  {
+    float: right;
+    padding-right: 0px;
+  }
+
+  .nav-bar .nav-container ul li
+  {
+    float: left;
+    text-align: center;
+    margin-bottom: 5px;
+  }
+
+
+  
+
+
+
+  #home .home-content
+{
+    text-align: center;
+    padding-top: 26%;
+    
+}
+
+
+
+/* ======================== first section ================================= */
+
+
+
+.first-section .container
+{
+    width: 95%;
+}
+
+
+
+.first-section .container .fs-left
+{
+    float: left;
+    width: 36%;
+    border-radius: 4px;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+
+
+.first-section .container .fs-left .pic
+{
+    border-radius: 4px;
+    position: relative;
+    overflow: hidden;
+    transform: translate(28px , 25px);  
+    
+}
+
+
+.first-section .container .fs-right
+{
+    float: right;
+    width: 55%;
+    padding-left: 0%;
+}
+
+
+
+.first-section .container .fs-right .left ,
+.first-section .container .fs-right .right
+{
+    float: left;
+    width: 45%;
+    font-size: 18px;
+}
+
+
+
+.first-section .container .fs-right .right
+{
+    padding-left: 0px;
+}
+
+
+
+
+
+
+
+
+
+/* ========================= secend section ============================ */
+
+
+.secend-section .container
+{
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+.secend-section .container .one
+{
+    float: left;
+    width: 33.3333333333%;
+    padding: 40px 0;
+    margin: 70px auto 0 auto ;
+    transition: all .3s;
+    
+}
+
+
+/* ========================= third section ============================ */
+
+
+
+.third-section .container .foto-sec .pict
+{
+    width: 33.333333333%;
+}
+
+
+.third-section .container
+{
+    width: 95%;
+}
+
+
+.third-section .container ul li
+{
+    display: inline-block;
+    padding-bottom: 0px;
+}
+
+
+
+
+
+/* ========================= section four ============================ */
+
+
+.section-four .container .ic
+{
+    float: left;
+    width: 25%;
+    margin-bottom: 40px;    
+}
+
+
+.section-four .container
+{
+    width: 95%;
+}
+
+
+/* ========================= section five ============================ */
+
+
+.section-five .container
+{
+    width: 70%;
+}
+
+.section-five .container .feed-back
+{
+    width: 100%;
+    padding-bottom: 40px;
+}
+
+
+
+
+.section-five .container .feed-back .lay
+{
+    top: -204px;
+    left: -45%;
+    transform: rotate(134deg);
+    
+}
+
+
+
+.section-five .container .feed-back .feed-back-left ,
+.section-five .container .feed-back .feed-back-right
+{
+    float: left;
+}
+
+.section-five .container .feed-back .feed-back-left
+{
+    width: 25%;
+    padding-bottom: 50px;
+} 
+
+
+
+
+
+.section-five .container .feed-back .feed-back-left img
+{
+    width: 100%;
+}
+
+
+
+.section-five .container .feed-back .feed-back-right
+{
+    
+    width: 65%;
+    padding-left: 20px;
+}
+
+
+
+/* ========================= section six ============================ */
+
+
+.section-six .container
+{
+    
+    width: 90%;
+}
+
+
+.section-six .container .cardes h2
+{
+    text-align: left;
+    font-size: 18px;
+}
+
+.section-six .container .cardes
+{
+    width: 33.333333333333%;
+    border-bottom: 20px solid transparent;
+    padding-left: 12px;
+    border: 20px solid transparent;
+    border-top: 30px solid transparent;
+}
+
+
+
+.section-six .container .cardes p ,
+.section-six .container .cardes a
+{
+    padding: 20px 0px 20px 0px;
+    
+}
+
+
+
+/* ========================= section seven ============================ */
+
+
+
+.section-seven .container
+{
+    width: 60%;
+}
+
+
+
+
+
+
+.section-seven .container form
+{
+    width: 100%;
+    margin: 80px auto;
+}
+
+
+
+.section-seven .container form .name ,
+.section-seven .container form .email
+{
+    width: 48%;
+    padding: 12px;
+    
+}
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) and (max-width: 1400px) 
+{
+    .nav-bar
+    {
+        background-color: black;
+    }
+
+
+    .nav-bar .nav-container
+  {
+    width: 90%;
+  }
+
+  .nav-bar .nav-container h2
+  {
+    padding-left: 0px;
+    float: left;
+    font-size: 35px;
+  }
+
+  .nav-bar .nav-container ul
+  {
+    float: right;
+    padding-right: 0px;
+  }
+
+  .nav-bar .nav-container ul li
+  {
+    float: left;
+    text-align: center;
+    margin-bottom: 5px;
+  }
+
+
+  
+
+
+
+  #home .home-content
+{
+    text-align: center;
+    padding-top: 19%;
+    
+}
+
+
+
+/* ======================== first section ================================= */
+
+
+
+.first-section .container
+{
+    width: 80%;
+}
+
+
+
+.first-section .container .fs-left
+{
+    float: left;
+    width: 36%;
+    border-radius: 4px;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+
+
+.first-section .container .fs-left .pic
+{
+    border-radius: 4px;
+    position: relative;
+    overflow: hidden;
+    transform: translate(28px , 25px);  
+    
+}
+
+
+.first-section .container .fs-right
+{
+    float: right;
+    width: 55%;
+    padding-left: 0%;
+}
+
+
+
+.first-section .container .fs-right .left ,
+.first-section .container .fs-right .right
+{
+    float: left;
+    width: 45%;
+    font-size: 18px;
+}
+
+
+
+.first-section .container .fs-right .right
+{
+    padding-left: 0px;
+}
+
+
+
+
+
+
+
+
+
+/* ========================= secend section ============================ */
+
+
+.secend-section .container
+{
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+.secend-section .container .one
+{
+    float: left;
+    width: 25%;
+    padding: 40px 0;
+    margin: 70px auto 0 auto ;
+    transition: all .3s;
+    
+}
+
+
+/* ========================= third section ============================ */
+
+
+
+.third-section .container .foto-sec .pict
+{
+    width: 33.333333333%;
+}
+
+
+.third-section .container
+{
+    width: 80%;
+}
+
+
+.third-section .container ul li
+{
+    display: inline-block;
+    padding-bottom: 0px;
+}
+
+
+
+
+
+/* ========================= section four ============================ */
+
+
+.section-four .container .ic
+{
+    float: left;
+    width: 25%;
+    margin-bottom: 40px;    
+}
+
+
+.section-four .container
+{
+    width: 95%;
+}
+
+
+/* ========================= section five ============================ */
+
+
+.section-five .container
+{
+    width: 60%;
+}
+
+.section-five .container .feed-back
+{
+    width: 100%;
+    padding-bottom: 40px;
+}
+
+
+
+
+.section-five .container .feed-back .lay
+{
+    top: -204px;
+    left: -45%;
+    transform: rotate(134deg);
+    
+}
+
+
+
+.section-five .container .feed-back .feed-back-left ,
+.section-five .container .feed-back .feed-back-right
+{
+    float: left;
+}
+
+.section-five .container .feed-back .feed-back-left
+{
+    width: 25%;
+    padding-bottom: 50px;
+} 
+
+
+
+
+
+.section-five .container .feed-back .feed-back-left img
+{
+    width: 100%;
+}
+
+
+
+.section-five .container .feed-back .feed-back-right
+{
+    
+    width: 65%;
+    padding-left: 20px;
+}
+
+
+
+/* ========================= section six ============================ */
+
+
+.section-six .container
+{
+    
+    width: 90%;
+}
+
+
+.section-six .container .cardes h2
+{
+    text-align: left;
+    font-size: 18px;
+}
+
+.section-six .container .cardes
+{
+    width: 33.333333333333%;
+    border-bottom: 20px solid transparent;
+    padding-left: 12px;
+    border: 20px solid transparent;
+    border-top: 30px solid transparent;
+}
+
+
+
+.section-six .container .cardes p ,
+.section-six .container .cardes a
+{
+    padding: 20px 0px 20px 0px;
+    
+}
+
+
+
+/* ========================= section seven ============================ */
+
+
+
+.section-seven .container
+{
+    width: 60%;
+}
+
+
+
+
+
+
+.section-seven .container form
+{
+    width: 100%;
+    margin: 80px auto;
+}
+
+
+
+.section-seven .container form .name ,
+.section-seven .container form .email
+{
+    width: 48%;
+    padding: 12px;
+    
+}
+
+}
